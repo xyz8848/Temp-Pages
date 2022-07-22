@@ -7,4 +7,4 @@
 6. 打开`Internet 协议版本 4 (TCP/IPV4)`属性
 7. 选中`使用下面的 DNS 服务器地址`
 8. 在`首选 DNS 服务器`中填入`4.2.2.1`或`4.2.2.2`
-9. 打开 Minecraft Launcher 再次尝试更新
+9. 打开`Minecraft Launcher`再次尝试更新
